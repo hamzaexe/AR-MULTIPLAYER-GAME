@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{22DDFDCC-3791-1F22-74EC-6C5E6AB749A4}") = "NetworkTanks", "Assembly-CSharp.csproj", "{C976D812-837A-1E42-33C0-87ED26E64CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C976D812-837A-1E42-33C0-87ED26E64CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C976D812-837A-1E42-33C0-87ED26E64CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C976D812-837A-1E42-33C0-87ED26E64CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C976D812-837A-1E42-33C0-87ED26E64CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
